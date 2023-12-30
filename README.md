@@ -1,1 +1,1 @@
-1.https://generat-password.netlify.app/
+1.https://generates-password.netlify.app/
